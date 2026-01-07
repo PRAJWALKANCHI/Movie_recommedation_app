@@ -4,6 +4,9 @@ We will use GenAi model like google gemini to suggest a movie similar to the use
 ## how does it work:
 Sign in to github
 
+# app link:
+https://movierecommedationapp-noyp6a7wuqgvlvzwjxjku5.streamlit.app/
+
 
 1) Create Repo
 
